@@ -1,6 +1,5 @@
 Road Accident Data Analysis (2021-2022)
 
-Description:
 Road accidents are a significant concern worldwide, resulting in numerous injuries and fatalities. To gain insights into the patterns, causes, and trends of road accidents, a comprehensive data analysis was performed on road accident data spanning from 2021 to 2022.
 
 1. Data Collection:
